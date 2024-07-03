@@ -1,0 +1,3 @@
+[submodule "thirdparty/c-ares"]
+	path = thirdparty/c-ares
+	url = https://github.com/c-ares/c-ares.git
